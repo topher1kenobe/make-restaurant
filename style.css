@@ -1,0 +1,65 @@
+/**
+ * Theme Name:  Make A Restaurant
+ * Theme URI:   https://www.ostraining.com/courses/class/wordpress/restaurant
+ * Author:      topher1kenobe
+ * Author URI:  https://profiles.wordpress.org/topher1kenobe/
+ * Description: A CHILD THEME OF MAKE: This theme includes template files for the <a href="https://wordpress.org/plugins/restaurant/">Restaurant</a> plugin by Justin Tadlock.  It does NOT require this plugin, but without it this theme is vanilla Make.  As a child theme, it DOES require the Make theme be installed.  This theme was commissioned by <a href="http://ostraining.com/">OSTraining.com</a> and there are extensive tutorials there.
+ * Template:   make
+ * Version:     1.0.1
+ * License:     GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags:        black, blue, green, gray, orange, red, white, yellow, dark, light, one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, buddypress, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, photoblogging, restaurant
+ *
+ * Make A Restaurant WordPress Theme, Copyright 2014 Chris DeRosia
+ * Make A Restaurant is distributed under the terms of the GNU GPL
+ */
+
+.post-type-archive-restaurant_item .restaurant_item {
+  padding-bottom: 20px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  border-bottom: 1px solid #ccc;
+}
+.post-type-archive-restaurant_item .restaurant_item:last-child {
+  border: 0;
+}
+.post-type-archive-restaurant_item .entry-title {
+  font-size: 3rem;
+}
+.post-type-archive-restaurant_item .menu_price {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.builder-banner-slide {
+    padding-bottom: 350px !important;
+}
+#site-content{
+  padding-top: 0;
+}
+table {
+  border-left: 1px solid #eaecee;
+  border-bottom: 1px solid #eaecee;
+  box-shadow: 3px 3px 0 #f2f2f2;
+  -moz-box-shadow: 3px 3px 0 #f2f2f2;
+  -webkit-box-shadow: 3px 3px 0 #f2f2f2;
+  -o-box-shadow: 3px 3px 0 #f2f2f2;
+  padding: 20px;
+}
+table th {
+  border-left: none;
+}
+table td {
+  border-left: none;
+}
+table tr:first-of-type td{
+  border-top: none;
+}
+.food-content{
+  border: 1px solid #eaecee;
+  box-shadow: 3px 3px 0 #f2f2f2;
+  -moz-box-shadow: 3px 3px 0 #f2f2f2;
+  -webkit-box-shadow: 3px 3px 0 #f2f2f2;
+  -o-box-shadow: 3px 3px 0 #f2f2f2;
+  padding: 20px;
+  min-height: 342px;
+}
