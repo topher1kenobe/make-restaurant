@@ -12,7 +12,7 @@
 
 ## Credits ##
 
-This theme was built by tophe1kenobe and  commissioned by <a href="http://ostraining.com/">OSTraining.com</a>.
+This theme was built by topher1kenobe and commissioned by <a href="http://ostraining.com/">OSTraining.com</a>.
 
 ## Installation ##
 

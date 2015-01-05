@@ -19,7 +19,7 @@ A CHILD THEME OF MAKE: This theme includes template files for the <a href="https
 * The GPL v2.0 or later license.
 
 == Credits ==
-This theme was built by tophe1kenobe and  commissioned by <a href="http://ostraining.com/">OSTraining.com</a>.
+This theme was built by topher1kenobe and commissioned by <a href="http://ostraining.com/">OSTraining.com</a>.
 
 == Installation ==
 
