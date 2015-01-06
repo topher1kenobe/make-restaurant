@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Include proper readme
+
 ## 1.0.1
 
 * Minor template updates
