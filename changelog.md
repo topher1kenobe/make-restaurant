@@ -1,3 +1,6 @@
+## 1.0.5
+* Move hierarchical sorting code to a plugin
+
 ## 1.0.2
 
 * Include proper readme
